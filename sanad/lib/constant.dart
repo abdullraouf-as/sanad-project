@@ -5,5 +5,5 @@ const List<String> cities = [
   'homs',
   'latakia',
   'tartous'
-];
+]; //TODO: get from backend
 const List<String> types = ['club', 'training', 'course'];
